@@ -69,11 +69,3 @@ while True:
 
     else:
         print("Invalid choice, please choose again.")
-
-
-
-
-
-                
-                
-
