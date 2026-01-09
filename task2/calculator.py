@@ -1,4 +1,6 @@
 #basic python calculator
+print("---SIMPLE CALCULATOR---")
+print("---Makes your calculations easy---")
 opt = input("Choose operation (+ , - , * , / ): ")
 
 num1 = float(input("Enter first number: "))
@@ -25,4 +27,6 @@ elif opt == "/":
         print("Division by zero is not possible!!")
 
 else:
-    print("invalid choice.")
+    print("Invalid choice.")
+
+print("!!!Calculation performed successfully!!!")    
